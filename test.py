@@ -1,5 +1,5 @@
 from datetime import date
-from pray_times import PrayTimes
+from religious_times import PrayTimes
 
 if __name__ == '__main__':
     pt = PrayTimes('MWL')

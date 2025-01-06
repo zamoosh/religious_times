@@ -145,5 +145,7 @@ This script is distributed under the GNU LGPL v3.0 license. Proper credit should
 
 For more details about the calculations, see the [user manual](http://praytimes.org/manual) and [calculation formulas](http://praytimes.org/calculation).
 
-GitHub of this project: [pray_times](https://github.com/zamoosh/pray_times)
+Project [link](https://pypi.org/project/religious-times/) on **Pypi.org** 
+
+Project on **GitHub**: [religious_times](https://github.com/zamoosh/religious_times)
 

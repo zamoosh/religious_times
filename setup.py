@@ -5,13 +5,13 @@ with open('README.md', 'r', encoding='utf-8') as file:
     long_description = file.read()
 
 setup(
-    name='pray_times',
+    name='religious_times',
     version='2.4',
     author='zamoosh',
     description='A library to calculate `pray times` for muslims.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/zamoosh/pray_times/',
+    url='https://github.com/zamoosh/religious_times/',
     packages=find_packages(),
     install_requires=[],
     license='MIT',
