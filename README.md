@@ -1,6 +1,6 @@
 # Prayer Times Calculator
 
-This Python script calculates Islamic prayer times based on a user's location, the date, and a selected calculation method. Originally developed by Hamid Zarrabi-Zadeh, it was later adapted to Python by Saleem Shafi and Hamid Zarrabi-Zadeh.
+This Python script calculates Islamic prayer times based on a user's location, the date, and a selected calculation method. Originally developed by Hamid Zarrabi-Zadeh, it was later adapted to Python by Saleem Shafi, Hamid Zarrabi-Zadeh and Mohammad Rahimi.
 
 ---
 
