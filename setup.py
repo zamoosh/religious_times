@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as file:
 
 setup(
     name='religious_times',
-    version='2.5',
+    version='2.6',
     author='Saleem Shafi, Hamid Zarrabi-Zadeh, Mohammad Rahimi (zamoosh)',
     description='A library to calculate `pray times` for muslims.',
     long_description=long_description,
